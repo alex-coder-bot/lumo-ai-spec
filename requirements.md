@@ -4,7 +4,7 @@
 
 People struggle with decision-making not because they lack knowledge, but because they rarely examine their own reasoning before real-world consequences occur. Traditional learning platforms teach concepts or provide advice, but they don't create space for users to stress-test their own logic through systematic challenge.
 
-Lumo addresses this by providing a bounded reasoning environment where users engage with realistic dilemmas and receive AI-generated counter-questions that surface assumptions, explore trade-offs, and challenge reasoning consistency—without providing solutions, advice, or evaluation.
+Lumo addresses this by providing a bounded reasoning environment where users engage with realistic dilemmas and receive AI-generated counter-questions that surface assumptions, explore trade-offs, and challenge reasoning consistency, without providing solutions, advice, or evaluation.
 
 ## System Classification
 
@@ -605,3 +605,4 @@ The following are explicitly NOT part of Lumo's requirements:
 6. **Safety**: Zero tolerance for harmful AI outputs
 7. **Privacy**: No compromise on user data protection
 8. **Architecture**: Must be stateless and horizontally scalable
+
